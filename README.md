@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enajera
-- 👀 I’m interested in Java Microservices with SpringBootcor NodeJs
+- 👀 I’m interested in Java Microservices with SpringBoot or NodeJs
 - 🌱 I’m currently learning TypeScript and NodeJs
 - 💞️ I’m looking to collaborate on Java Projects.
 - 📫 How to reach me elvin7n@gmail.com
